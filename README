@@ -1,0 +1,35 @@
+Krita brush bundles
+===================
+
+This repo contains several brush bundles for Krita (http://krita.org). Some of
+them were created by me, but as for most, i just packed them.
+
+Bundles are to be built by my krita-bundler script (https://github.com/portnov/krita-bundler).
+To build a bundle, just chdir to needed directory and say
+
+    $ create-krita-bundle.py *.bundleconfig
+
+This will create *.bundle file which you can import into Krita.
+
+Bundles
+-------
+
+This set contains the following bundles:
+
+* Gouache - this contains some gouache-like brushes from Bearsbears brush packs
+  and also some my brushes, inspired by Bearsbears.
+* MostUsed - set of some brushes, most used by me. © different authors.
+* Ramon - set of brushes by Ramon Miranda (http://www.ramonmiranda.com/2012/09/new-set-for-krita-software-45-or-later.html).
+* comics - set of brushes by Animtim
+* modular - Modular brush set by Vasco Basqué (https://vascobasque.wordpress.com/2014/02/03/modular-brushset-v4/).
+* muses - brush set from Ramon Miranda's Muses DVD (https://krita.org/item/the-muses-preset-pack/).
+* mybrushes - set of my brushes
+* mypaint-pencils - two brushes by Bearsbears (https://forum.kde.org/viewtopic.php?f=274&t=124206).
+* pastel - Pastel-like brushes by Galatejaa (http://galatejaa.deviantart.com/art/Pastel-530782158).
+* pencils - Pencil & charcoal-like brushes. Some my, some from Bearsbears's and Modular brush packs.
+
+License
+-------
+
+CC-0 for all my brushes. As for other, please refer to their authors.
+
