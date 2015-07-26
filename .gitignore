@@ -1,0 +1,7 @@
+*.swp
+*.bundle
+*.bundle.zip
+meta.xml
+manifest.xml
+mimetype
+.directory

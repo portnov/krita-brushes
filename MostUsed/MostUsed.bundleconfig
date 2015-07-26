@@ -1,0 +1,9 @@
+[Bundle]
+Author = Ilya Portnov
+Description = Some of my most used brushes
+Date = 2015/06/08
+Email = portnov@bk.ru
+Website = None
+License = CC-0
+Bundle file name = MostUsed.bundle
+Auto add resources = ~/.kde/share/apps/krita/brushes/;~/krita/brushes/BASE/;~/.kde/share/apps/krita/bundles/*.bundle

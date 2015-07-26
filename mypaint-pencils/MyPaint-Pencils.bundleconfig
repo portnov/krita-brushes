@@ -1,0 +1,13 @@
+[Bundle]
+Author = bearsbears 
+Description = brushes that resemble Mypaint's pencil presets
+Creator = Ilya Portnov
+Date = 2015/07/25
+Email = portnov@bk.ru
+Website = https://forum.kde.org/viewtopic.php?f=274&t=124206
+License = CC-0
+Bundle file name = MyPaint-Pencils.bundle
+Skip bad presets = true
+Skip unused brushes = true
+Auto add resources = ~/.kde/share/apps/krita/brushes/;~/.kde/share/apps/krita/brushes/pastel/;~/.kde/share/apps/krita/bundles/*.bundle
+

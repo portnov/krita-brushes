@@ -1,0 +1,10 @@
+[Bundle]
+AUthor = Vasco Basque
+Description = Krita Modular Brushset v4
+Creator = Ilya Portnov
+Date = 2015/07/10
+Email = portnov@bk.ru
+Website = None
+License = CC-0
+Bundle file name = Modular.bundle
+Auto add resources = ~/.kde/share/apps/krita/brushes/;~/krita/brushes/BASE/;~/.kde/share/apps/krita/bundles/*.bundle
